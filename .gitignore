@@ -15,3 +15,8 @@ deps
 .rebar3
 _build/
 _checkouts/
+
+logs
+ebin
+rebar3_deps.d
+.erlang.mk
